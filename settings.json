@@ -41,7 +41,7 @@
     "buffer_font_family": "Fira Code",
     "autosave": {
         "after_delay": {
-            "milliseconds": 500
+            "milliseconds": 2000
         }
     },
     "disable_ai": true,
